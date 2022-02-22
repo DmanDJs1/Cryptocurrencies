@@ -5,3 +5,7 @@ For this project we were asked to create a report that includes what cryptocurre
 are on the trading market and how they could be grouped to create a classification system for this new investment.
 First we processed the data to fit the machine learning models using unsupervised learning. 
 Then grouped the cryptocurrencies using clustering algorithm to display the data visualizations.
+
+
+## HVPLOT
+![image](https://github.com/DmanDJs1/Cryptocurrencies/blob/main/Resources/hvplot.scatter%20plot.PNG?raw=true)
