@@ -7,5 +7,8 @@ First we processed the data to fit the machine learning models using unsupervise
 Then grouped the cryptocurrencies using clustering algorithm to display the data visualizations.
 
 
-## HVPLOT
+### 3D-Scatter with the PCA data and the clusters
+![image](https://github.com/DmanDJs1/Cryptocurrencies/blob/main/Resources/3D-Scatter%20with%20the%20PCA%20data%20and%20the%20clusters.PNG?raw=true)
+
+### HVPLOT
 ![image](https://github.com/DmanDJs1/Cryptocurrencies/blob/main/Resources/hvplot.scatter%20plot.PNG?raw=true)
